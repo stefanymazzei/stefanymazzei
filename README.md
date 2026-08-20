@@ -1,8 +1,14 @@
-# Olá, eu sou a Stefany Mazzei! 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vcenter=true&width=435&lines=Estudante+de+ADS+%26+Administra%C3%A7%C3%A3o;Dev+em+Forma%C3%A7%C3%A3o;Tecnologia+%2B+Cloud+%2B+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
-</p>
+  <!-- Banner com Nome e Descrição Ajustados Mais Para Cima -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=Stefany%20Mazzei&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20%7C%20Administra%C3%A7%C3%A3o&descSize=16&descAlignY=58" width="100%" alt="Header Banner" />
+
+  <br />
+
+  <!-- Texto Dinâmico Centralizado em Azul Claro -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Estudante+de+ADS+%26+Administra%C3%A7%C3%A3o;Desenvolvedora+em+Forma%C3%A7%C3%A3o;Tecnologia+%2B+Cloud+%2B+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
+
+</div>
 
 ---
 
