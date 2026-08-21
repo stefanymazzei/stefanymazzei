@@ -20,46 +20,36 @@
 
 ---
 ### 🛠️ Tecnologias & Ferramentas
-*(Clique nos ícones para acessar as fichas de experiência prática)*
+*(Clique no ícone ou no nome para abrir a ficha técnica)*
 
-**Linguagens, Web, Design & ITSM**
-*(Clique nos ícones para entender como aplico cada tecnologia nas rotinas de negócios)*
-
-<p left>
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/html.md" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
-  </a>
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/css.md" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
-  </a>
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/javascript.md" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  </a>
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/python.md" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py" title="Python" />
-  </a>
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/java.md" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" title="Java" />
-  </a>
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/postgres.md" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
-  </a>
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/figma.md" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
-  </a>
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/canva.md" target="_blank">
-    <img src="https://skillicons.dev/icons?i=canva" title="Canva" />
-  </a>
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/git.md" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" title="Git" />
-  </a>
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/github.md" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-  </a>
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/servicenow.md" target="_blank">
-    <img src="./Logo%20ServiceNow.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="ServiceNow" />
-  </a>
-</p>
+<table border="0" style="border: none; border-collapse: collapse;">
+  <tr align="center" style="border: none;">
+    <td style="border: none; padding: 10px;">
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/python.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" /><br />
+        <sub><b>Python</b></sub>
+      </a>
+    </td>
+    <td style="border: none; padding: 10px;">
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/java.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" /><br />
+        <sub><b>Java</b></sub>
+      </a>
+    </td>
+    <td style="border: none; padding: 10px;">
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/postgres.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /><br />
+        <sub><b>PostgreSQL</b></sub>
+      </a>
+    </td>
+    <td style="border: none; padding: 10px;">
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/servicenow.md" target="_blank">
+        <img src="./Logo%20ServiceNow.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" /><br />
+        <sub><b>ServiceNow</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 **Softwares & Sistemas Vivenciados**
 
