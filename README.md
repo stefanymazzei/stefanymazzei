@@ -20,34 +20,81 @@
 
 ---
 ### 🛠️ Tecnologias & Ferramentas
+
+**Linguagens, Web, Design & ITSM**
 *(Clique no ícone ou no nome para abrir a ficha técnica)*
 
-<table border="0" style="border: none; border-collapse: collapse;">
-  <tr align="center" style="border: none;">
-    <td style="border: none; padding: 10px;">
+<table>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/html.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" /><br />
+        <sub><b>HTML5</b></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/css.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" /><br />
+        <sub><b>CSS3</b></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/javascript.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" /><br />
+        <sub><b>JavaScript</b></sub>
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/python.md" target="_blank">
         <img src="https://skillicons.dev/icons?i=py" width="48" height="48" /><br />
         <sub><b>Python</b></sub>
       </a>
     </td>
-    <td style="border: none; padding: 10px;">
+    <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/java.md" target="_blank">
         <img src="https://skillicons.dev/icons?i=java" width="48" height="48" /><br />
         <sub><b>Java</b></sub>
       </a>
     </td>
-    <td style="border: none; padding: 10px;">
+    <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/postgres.md" target="_blank">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /><br />
         <sub><b>PostgreSQL</b></sub>
       </a>
     </td>
-    <td style="border: none; padding: 10px;">
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/figma.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" /><br />
+        <sub><b>Figma</b></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/canva.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" /><br />
+        <sub><b>Canva</b></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/git.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" /><br />
+        <sub><b>Git</b></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/github.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" /><br />
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/servicenow.md" target="_blank">
         <img src="./Logo%20ServiceNow.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" /><br />
         <sub><b>ServiceNow</b></sub>
       </a>
     </td>
+    <td></td>
   </tr>
 </table>
 
