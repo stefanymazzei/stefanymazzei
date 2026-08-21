@@ -41,7 +41,7 @@
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/javascript.md" target="_blank">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" />
       </a><br />
-      <sub><font color="#8b949e"><b>Jscript</b></font></sub>
+      <sub><font color="#8b949e"><b>JavaScript</b></font></sub>
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/python.md" target="_blank">
@@ -59,7 +59,7 @@
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/postgres.md" target="_blank">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" />
       </a><br />
-      <sub><font color="#8b949e"><b>PostSQL</b></font></sub>
+      <sub><font color="#8b949e"><b>PostgreSQL</b></font></sub>
     </td>
   </tr>
   <tr align="center">
@@ -71,7 +71,7 @@
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/canva.md" target="_blank">
-        <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" />
+        <img src="./Logo%20Canva.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Canva</b></font></sub>
     </td>
@@ -91,7 +91,7 @@
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/servicenow.md" target="_blank">
         <img src="./Logo%20ServiceNow.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
       </a><br />
-      <sub><font color="#8b949e"><b>ServNow</b></font></sub>
+      <sub><font color="#8b949e"><b>ServiceNow</b></font></sub>
     </td>
     <td></td>
   </tr>
