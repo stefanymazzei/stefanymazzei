@@ -93,7 +93,12 @@
       </a><br />
       <sub><font color="#8b949e"><b>ServiceNow</b></font></sub>
     </td>
-    <td></td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/sql.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" />
+      </a><br />
+      <sub><font color="#8b949e"><b>SQL</b></font></sub>
+    </td>
   </tr>
 </table>
 
