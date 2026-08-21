@@ -19,39 +19,29 @@
 - 🎯 Em breve compartilharei meus projetos pessoais e acadêmicos por aqui!
 
 ---
-
 ### 🛠️ Tecnologias & Ferramentas
 
-**Linguagens & Web**
+**Linguagens, Web & Design**
 <p left>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,postgres,figma,canva,git,github" />
+  </a>
 </p>
 
-**Design & UI/UX**
+**Gestão, Análise de Dados, Cloud & ERP**
 <p left>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=powerbi,azure" />
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sap/sap-original.svg" width="48" height="48" title="SAP" />
+  <img src="https://cdn.simpleicons.org/servicenow/81B5A1" width="48" height="48" title="ServiceNow" />
 </p>
 
-**Gestão, Análise de Dados & ERP**
+**Produtividade Microsoft**
 <p left>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" />
-</p>
-
-**Produtividade & Trabalho Colaborativo**
-<p left>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" title="Excel" />
+  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="48" height="48" title="Word" />
+  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="48" height="48" title="PowerPoint" />
 </p>
 
 ---
