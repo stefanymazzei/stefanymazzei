@@ -21,24 +21,98 @@
 ---
 ### 🛠️ Tecnologias & Ferramentas
 
-**Linguagens, Web, Design, IDEs & ITSM**
+**Linguagens, Web, Design, IDEs & ITSM** *(Clique no ícone para abrir a ficha técnica)*
 
-<marquee behavior="scroll" direction="left" scrollamount="4">
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/html.md" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" /></a> &nbsp;
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/css.md" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" /></a> &nbsp;
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/javascript.md" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" /></a> &nbsp;
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/python.md" target="_blank"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" /></a> &nbsp;
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/java.md" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" /></a> &nbsp;
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/postgres.md" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /></a> &nbsp;
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/sql.md" target="_blank"><img src="./Logo%20SQL.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" /></a> &nbsp;
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/figma.md" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" /></a> &nbsp;
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/canva.md" target="_blank"><img src="./Logo%20Canva.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" /></a> &nbsp;
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/vscode.md" target="_blank"><img src="./Logo%20VsCode.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" /></a> &nbsp;
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/antigravity.md" target="_blank"><img src="./Logo%20Antigravity.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" /></a> &nbsp;
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/git.md" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" /></a> &nbsp;
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/github.md" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /></a> &nbsp;
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/servicenow.md" target="_blank"><img src="./Logo%20ServiceNow.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" /></a>
-</marquee>
+<table>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/html.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
+      </a><br />
+      <sub><font color="#8b949e"><b>HTML5</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/css.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
+      </a><br />
+      <sub><font color="#8b949e"><b>CSS3</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/javascript.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" />
+      </a><br />
+      <sub><font color="#8b949e"><b>JavaScript</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/python.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" />
+      </a><br />
+      <sub><font color="#8b949e"><b>Python</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/java.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
+      </a><br />
+      <sub><font color="#8b949e"><b>Java</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/postgres.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" />
+      </a><br />
+      <sub><font color="#8b949e"><b>PostgreSQL</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/sql.md" target="_blank">
+        <img src="./Logo%20SQL.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>SQL</b></font></sub>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/figma.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" />
+      </a><br />
+      <sub><font color="#8b949e"><b>Figma</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/canva.md" target="_blank">
+        <img src="./Logo%20Canva.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>Canva</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/vscode.md" target="_blank">
+        <img src="./Logo%20VsCode.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>VS Code</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/antigravity.md" target="_blank">
+        <img src="./Logo%20Antigravity.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>Antigravity</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/git.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
+      </a><br />
+      <sub><font color="#8b949e"><b>Git</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/github.md" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
+      </a><br />
+      <sub><font color="#8b949e"><b>GitHub</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/servicenow.md" target="_blank">
+        <img src="./Logo%20ServiceNow.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>ServiceNow</b></font></sub>
+    </td>
+  </tr>
+</table>
 
 ### 💼 Softwares & Sistemas Vivenciados
 
