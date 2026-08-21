@@ -19,7 +19,7 @@
 - 🎯 Em breve compartilharei meus projetos pessoais e acadêmicos por aqui!
 
 ---
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Ferramentas
 
 **Linguagens, Web, Design, IDEs & ITSM** *(Clique no ícone para abrir a ficha técnica)*
 
@@ -114,7 +114,7 @@
   </tr>
 </table>
 
-### 💼 Softwares & Sistemas Vivenciados
+### 💼 Sistemas Vivenciados
 
 *(Clique no ícone do sistema para abrir a ficha de experiência prática)*
 
@@ -166,7 +166,7 @@
 </table>
 
 
-### 📊 Produtividade Microsoft & Business Intelligence
+### 📊 Microsoft
 
 *(Clique no ícone para abrir a ficha técnica de cada ferramenta)*
 
@@ -201,15 +201,24 @@
 
 ---
 
-### 📊 Minhas Estatísticas
+### ⚙️ Projetos
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=stefanymazzei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanymazzei&layout=compact&theme=dracula"/>
 </p>
 
 ---
+---
 
-### 📬 Vamos nos conectar?
+### 🎯 Objetivos
+
+* **Aprimoramento Técnico:** Expandir o domínio em automação de processos utilizando Python e SQL para otimização de fluxos operacionais e análise de dados corporativos.
+* **Governança & ITSM:** Aprofundar os conhecimentos na plataforma ServiceNow e em metodologias ágeis de gestão de serviços de TI.
+* **Transição & Crescimento:** Conectar a bagagem prática em processos administrativos e financeiros com soluções tecnológicas, atuando na interface entre negócios e tecnologia.
+
+---
+
+### 🌐 Contato
 <p left>
   <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
