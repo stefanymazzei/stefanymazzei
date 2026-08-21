@@ -20,6 +20,7 @@
 
 ---
 ### 🛠️ Tecnologias & Ferramentas
+*(Clique nos ícones para acessar as fichas de experiência prática)*
 
 **Linguagens, Web, Design & ITSM**
 <p left>
@@ -43,7 +44,9 @@
 **Softwares & Sistemas Vivenciados**
 
 <p left>
-  <img src="./Logo%20SAP.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="SAP" />
+  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/ac70c025dfa9c5d0a2ca1453f034623f7b453d49/docs/sap.md" target="_blank" rel="noopener noreferrer">
+    <img src="./Logo%20SAP.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="SAP - Clique para ver a experiência prática" />
+  </a>
   <img src="./Logo%20ZOHO.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Zoho CRM" />
   <img src="./Logo%20QIVE.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="QIVE - Arquivei" />
   <img src="./Logo%20Cobmais.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Cobmais" />
