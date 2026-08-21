@@ -23,22 +23,42 @@
 *(Clique nos ícones para acessar as fichas de experiência prática)*
 
 **Linguagens, Web, Design & ITSM**
-<p left>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,postgres,figma,canva,git,github" />
-  </a>
-  <img src="./Logo%20ServiceNow.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="ServiceNow" />
-</p>
+*(Clique nos ícones para entender como aplico cada tecnologia nas rotinas de negócios)*
 
-**Produtividade Microsoft & Cloud**
 <p left>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure" />
+  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/html.md" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
   </a>
-  <img src="./Logo%20Excel.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Excel" />
-  <img src="./Logo%20Word.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Word" />
-  <img src="./Logo%20PowerPoint.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="PowerPoint" />
-  <img src="./Logo%20PowerBI.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Power BI" />
+  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/css.md" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+  </a>
+  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/javascript.md" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  </a>
+  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/python.md" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" title="Python" />
+  </a>
+  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/java.md" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  </a>
+  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/postgres.md" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+  </a>
+  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/figma.md" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+  </a>
+  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/canva.md" target="_blank">
+    <img src="https://skillicons.dev/icons?i=canva" title="Canva" />
+  </a>
+  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/git.md" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  </a>
+  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/github.md" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  </a>
+  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/servicenow.md" target="_blank">
+    <img src="./Logo%20ServiceNow.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="ServiceNow" />
+  </a>
 </p>
 
 **Softwares & Sistemas Vivenciados**
