@@ -21,7 +21,7 @@
 ---
 ### 🛠️ Tecnologias & Ferramentas
 
-**Linguagens, Web, Design & ITSM** *(Clique no ícone para abrir a ficha técnica)*
+**Linguagens, Web, Design, IDEs & ITSM** *(Clique no ícone para abrir a ficha técnica)*
 
 <table>
   <tr align="center">
@@ -61,6 +61,12 @@
       </a><br />
       <sub><font color="#8b949e"><b>PostgreSQL</b></font></sub>
     </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/sql.md" target="_blank">
+        <img src="./Logo%20SQL.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>SQL</b></font></sub>
+    </td>
   </tr>
   <tr align="center">
     <td>
@@ -74,6 +80,18 @@
         <img src="./Logo%20Canva.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Canva</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/vscode.md" target="_blank">
+        <img src="./Logo%20VsCode.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>VS Code</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/antigravity.md" target="_blank">
+        <img src="./Logo%20Antigravity.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>Antigravity</b></font></sub>
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/git.md" target="_blank">
@@ -92,12 +110,6 @@
         <img src="./Logo%20ServiceNow.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>ServiceNow</b></font></sub>
-    </td>
-    <td>
-      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/sql.md" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" />
-      </a><br />
-      <sub><font color="#8b949e"><b>SQL</b></font></sub>
     </td>
   </tr>
 </table>
