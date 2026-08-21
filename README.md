@@ -165,6 +165,40 @@
   </tr>
 </table>
 
+
+### 📊 Produtividade Microsoft & Business Intelligence
+
+*(Clique no ícone para abrir a ficha técnica de cada ferramenta)*
+
+<table>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/excel.md" target="_blank">
+        <img src="./Logo%20Excel.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>Excel</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/word.md" target="_blank">
+        <img src="./Logo%20Word.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>Word</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/powerpoint.md" target="_blank">
+        <img src="./Logo%20PowerPoint.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>PowerPoint</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/powerbi.md" target="_blank">
+        <img src="./Logo%20PowerBI.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>Power BI</b></font></sub>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 📊 Minhas Estatísticas
