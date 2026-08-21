@@ -21,27 +21,35 @@
 ---
 ### 🛠️ Tecnologias & Ferramentas
 
-**Linguagens, Web & Design**
+**Linguagens, Web, Design & ITSM**
 <p left>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,java,postgres,figma,canva,git,github" />
   </a>
+  <img src="./Logo%20ServiceNow.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="ServiceNow" />
 </p>
 
-**Gestão, Análise de Dados, Cloud & ERP**
+**Produtividade Microsoft & Cloud**
 <p left>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powerbi,azure" />
+    <img src="https://skillicons.dev/icons?i=azure" />
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sap/sap-original.svg" width="48" height="48" title="SAP" />
-  <img src="https://cdn.simpleicons.org/servicenow/81B5A1" width="48" height="48" title="ServiceNow" />
+  <img src="./Logo%20Excel.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Excel" />
+  <img src="./Logo%20Word.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Word" />
+  <img src="./Logo%20PowerPoint.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="PowerPoint" />
+  <img src="./Logo%20PowerBI.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Power BI" />
 </p>
 
-**Produtividade Microsoft**
+**Softwares & Sistemas Vivenciados**
+
 <p left>
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" title="Excel" />
-  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="48" height="48" title="Word" />
-  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="48" height="48" title="PowerPoint" />
+  <img src="./Logo%20SAP.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="SAP" />
+  <img src="./Logo%20ZOHO.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Zoho CRM" />
+  <img src="./Logo%20QIVE.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="QIVE - Arquivei" />
+  <img src="./Logo%20Cobmais.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Cobmais" />
+  <img src="./Logo%20Alpheratz.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Alpheratz" />
+  <img src="./Logo%20DocPay.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="DocPay" />
+  <img src="./Logo%20Total%20IP.jpg" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Total IP" />
 </p>
 
 ---
