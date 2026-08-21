@@ -218,12 +218,30 @@
 
 ---
 
-### 🌐 Contato
-<p left>
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<h3 align="center">🌐 Contato</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/stefanymazzei" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" title="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:seu-email@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" title="Gmail" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://wa.me/5511974866465?text=Ol%C3%A1%2C%20Stefany%21%20Tudo%20bem%3F%20%F0%9F%98%8A%0AVim%20atrav%C3%A9s%20do%20seu%20GitHub%20%2C%20gostaria%20de%20me%20conectar%20com%20voc%C3%AA%20e%20conhecer%20um%20pouco%20mais%20sobre%20seus%20projetos%20e%20trabalhos%21" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius: 10px; height: 48px; vertical-align: middle;" title="WhatsApp" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/seu-usuario" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" title="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/seu-usuario" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="48" height="48" title="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/seu-usuario" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" title="Twitter / X" />
   </a>
 </p>
