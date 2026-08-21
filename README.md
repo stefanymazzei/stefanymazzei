@@ -217,30 +217,26 @@
 
 ---
 
-<h3 align="center">🌐 Contato</h3>
+### 🌐 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/stefanymazzei" target="_blank">
+  <a href="https://www.linkedin.com/in/stefany-m-2b4b2217a?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" title="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=stefanymsc64@gmail.com&su=Contato%20via%20GitHub%20-%20Stefany%20Mazzei&body=Ol%C3%A1%20Stefany%2C%20como%20est%C3%A1%3F%0A%0AEstou%20entrando%20em%20contato%20atrav%C3%A9s%20do%20seu%20GitHub%2C%20que%20inclusive%2C%20achei%20muito%20interessante%20e%20gostaria%20de%20saber%20mais%20detalhes%20sobre%20seus%20projetos%21%0A%0AAguardo%20seu%20retorno.%0A%0AAtenciosamente%3B" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" title="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/5511974866465?text=Ol%C3%A1%2C%20Stefany%21%20Tudo%20bem%3F%20%F0%9F%98%8A%0AVim%20atrav%C3%A9s%20do%20seu%20GitHub%20%2C%20gostaria%20de%20me%20conectar%20com%20voc%C3%AA%20e%20conhecer%20um%20pouco%20mais%20sobre%20seus%20projetos%20e%20trabalhos%21" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius: 10px; height: 48px; vertical-align: middle;" title="WhatsApp" />
+  <a href="https://wa.me/5511974866465?text=Ol%C3%A1%20_*Stefany*_%21%20Tudo%20bem%3F%20%F0%9F%98%8A%0A%0AEstou%20entrando%20em%20contato%20com%20voc%C3%AA%20atrav%C3%A9s%20do%20GitHub%2C%20gostaria%20de%20saber%20mais%20sobre%20seus%20projetos%20e%20trabalhos." target="_blank">
+    <img src="./Logo%20WhatsApp.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="WhatsApp" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/seu-usuario" target="_blank">
+  <a href="https://www.instagram.com/stefany.mazzei/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" title="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/seu-usuario" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="48" height="48" title="Facebook" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/seu-usuario" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" title="Twitter / X" />
+  <a href="https://www.facebook.com/stefany.cocuzzo.3/" target="_blank">
+    <img src="./Logotipo%20do%20Facebook.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Facebook" />
   </a>
 </p>
