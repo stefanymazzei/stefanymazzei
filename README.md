@@ -114,19 +114,56 @@
   </tr>
 </table>
 
-**Softwares & Sistemas Vivenciados**
+### 💼 Softwares & Sistemas Vivenciados
 
-<p left>
-  <a href="https://github.com/stefanymazzei/stefanymazzei/blob/ac70c025dfa9c5d0a2ca1453f034623f7b453d49/docs/sap.md" target="_blank" rel="noopener noreferrer">
-    <img src="./Logo%20SAP.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="SAP - Clique para ver a experiência prática" />
-  </a>
-  <img src="./Logo%20ZOHO.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Zoho CRM" />
-  <img src="./Logo%20QIVE.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="QIVE - Arquivei" />
-  <img src="./Logo%20Cobmais.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Cobmais" />
-  <img src="./Logo%20Alpheratz.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Alpheratz" />
-  <img src="./Logo%20DocPay.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="DocPay" />
-  <img src="./Logo%20Total%20IP.jpg" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Total IP" />
-</p>
+*(Clique no ícone do sistema para abrir a ficha de experiência prática)*
+
+<table>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/sap.md" target="_blank">
+        <img src="./Logo%20SAP.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>SAP</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/zoho.md" target="_blank">
+        <img src="./Logo%20ZOHO.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>Zoho CRM</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/qive.md" target="_blank">
+        <img src="./Logo%20QIVE.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>QIVE</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/cobmais.md" target="_blank">
+        <img src="./Logo%20Cobmais.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>Cobmais</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/alpheratz.md" target="_blank">
+        <img src="./Logo%20Alpheratz.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>Alpheratz</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/docpay.md" target="_blank">
+        <img src="./Logo%20DocPay.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>DocPay</b></font></sub>
+    </td>
+    <td>
+      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/totalip.md" target="_blank">
+        <img src="./Logo%20Total%20IP.jpg" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>Total IP</b></font></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
