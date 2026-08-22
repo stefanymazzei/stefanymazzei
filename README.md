@@ -122,13 +122,13 @@
   <tr align="center">
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/sap.md" target="_blank">
-        <img src="./Logo%20SAP.webp" width="55" height="55" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
+        <img src="./Logo%20SAP.webp" width="63" height="63" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>SAP</b></font></sub>
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/zoho.md" target="_blank">
-        <img src="./Logo%20ZOHO.png" width="73" height="80" style="background-color: #1a1b26; border-radius: 10px; padding: 4px; object-fit: contain;" />
+        <img src="./Logo%20ZOHO.png" width="78" height="80" style="background-color: #1a1b26; border-radius: 10px; padding: 4px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Zoho CRM</b></font></sub>
     </td>
