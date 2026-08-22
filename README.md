@@ -107,7 +107,7 @@
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/servicenow.md" target="_blank">
-        <img src="./Logo%20ServiceNow.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 8px; object-fit: contain;" />
+        <img src="./Logo%20ServiceNow.png" width="60" height="60" style="background-color: #1a1b26; border-radius: 10px; padding: 8px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>ServNow</b></font></sub>
     </td>
