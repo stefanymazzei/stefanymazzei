@@ -21,7 +21,7 @@
 ---
 ### 🛠️ Ferramentas
 
-**Linguagens, Web, Design, IDEs & ITSM** *(Clique no ícone para abrir a ficha técnica)*
+**Linguagens, Web, Design, IDEs e ITSM** *(Clique no ícone para abrir a ficha técnica)*
 
 <table>
   <tr align="center">
@@ -59,11 +59,11 @@
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/postgres.md" target="_blank">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" />
       </a><br />
-      <sub><font color="#8b949e"><b>PostgreSQL</b></font></sub>
+      <sub><font color="#8b949e"><b>PostSQL</b></font></sub>
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/sql.md" target="_blank">
-        <img src="./Logo%20SQL.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+        <img src="./Logo%20SQL.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 8px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>SQL</b></font></sub>
     </td>
@@ -77,19 +77,19 @@
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/canva.md" target="_blank">
-        <img src="./Logo%20Canva.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+        <img src="./Logo%20Canva.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 8px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Canva</b></font></sub>
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/vscode.md" target="_blank">
-        <img src="./Logo%20VsCode.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+        <img src="./Logo%20VsCode.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 9px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>VsCode</b></font></sub>
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/antigravity.md" target="_blank">
-        <img src="./Logo%20Antigravity.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+        <img src="./Logo%20Antigravity.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 9px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Antigravity</b></font></sub>
     </td>
@@ -107,7 +107,7 @@
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/servicenow.md" target="_blank">
-        <img src="./Logo%20ServiceNow.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+        <img src="./Logo%20ServiceNow.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 8px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>ServNow</b></font></sub>
     </td>
@@ -122,49 +122,48 @@
   <tr align="center">
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/sap.md" target="_blank">
-        <img src="./Logo%20SAP.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+        <img src="./Logo%20SAP.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>SAP</b></font></sub>
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/zoho.md" target="_blank">
-        <img src="./Logo%20ZOHO.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+        <img src="./Logo%20ZOHO.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 4px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Zoho CRM</b></font></sub>
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/qive.md" target="_blank">
-        <img src="./Logo%20QIVE.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+        <img src="./Logo%20QIVE.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>QIVE</b></font></sub>
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/cobmais.md" target="_blank">
-        <img src="./Logo%20Cobmais.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+        <img src="./Logo%20Cobmais.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Cobmais</b></font></sub>
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/alpheratz.md" target="_blank">
-        <img src="./Logo%20Alpheratz.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+        <img src="./Logo%20Alpheratz.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Alpheratz</b></font></sub>
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/docpay.md" target="_blank">
-        <img src="./Logo%20DocPay.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+        <img src="./Logo%20DocPay.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 11px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>DocPay</b></font></sub>
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/totalip.md" target="_blank">
-        <img src="./Logo%20Total%20IP.jpg" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+        <img src="./Logo%20Total%20IP.jpg" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Total IP</b></font></sub>
     </td>
   </tr>
 </table>
-
 
 ### 📊 Microsoft
 
@@ -174,25 +173,25 @@
   <tr align="center">
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/excel.md" target="_blank">
-        <img src="./Logo%20Excel.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+        <img src="./Logo%20Excel.png" width="60" height="61" style="background-color: #1a1b26; border-radius: 10px; padding: 9px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Excel</b></font></sub>
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/word.md" target="_blank">
-        <img src="./Logo%20Word.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+        <img src="./Logo%20Word.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Word</b></font></sub>
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/powerpoint.md" target="_blank">
-        <img src="./Logo%20PowerPoint.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+        <img src="./Logo%20PowerPoint.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>PowerPoint</b></font></sub>
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/powerbi.md" target="_blank">
-        <img src="./Logo%20PowerBI.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
+        <img src="./Logo%20PowerBI.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Power BI</b></font></sub>
     </td>
