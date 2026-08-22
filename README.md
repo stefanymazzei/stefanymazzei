@@ -41,7 +41,7 @@
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/javascript.md" target="_blank">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" />
       </a><br />
-      <sub><font color="#8b949e"><b>JavaScript</b></font></sub>
+      <sub><font color="#8b949e"><b>Jscript</b></font></sub>
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/python.md" target="_blank">
@@ -85,7 +85,7 @@
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/vscode.md" target="_blank">
         <img src="./Logo%20VsCode.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
       </a><br />
-      <sub><font color="#8b949e"><b>VS Code</b></font></sub>
+      <sub><font color="#8b949e"><b>VsCode</b></font></sub>
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/antigravity.md" target="_blank">
@@ -109,7 +109,7 @@
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/servicenow.md" target="_blank">
         <img src="./Logo%20ServiceNow.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" />
       </a><br />
-      <sub><font color="#8b949e"><b>ServiceNow</b></font></sub>
+      <sub><font color="#8b949e"><b>ServNow</b></font></sub>
     </td>
   </tr>
 </table>
@@ -237,6 +237,6 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/stefany.cocuzzo.3/" target="_blank">
-    <img src="./Logotipo%20do%20Facebook.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Facebook" />
+    <img src="./Logotipo%20facebook.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Facebook" />
   </a>
 </p>
