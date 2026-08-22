@@ -173,7 +173,7 @@
   <tr align="center">
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/excel.md" target="_blank">
-        <img src="./Logo%20Excel.png" width="60" height="61" style="background-color: #1a1b26; border-radius: 10px; padding: 9px; object-fit: contain;" />
+        <img src="./Logo%20Excel.png" width="45" height="46" style="background-color: #1a1b26; border-radius: 10px; padding: 9px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Excel</b></font></sub>
     </td>
