@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/stefanymazzei/stefanymazzei/main/Logo%20VsCode.webp" width="50" align="center" /> Visual Studio Code • Ambiente de Desenvolvimento (IDE)
+# <img src="https://raw.githubusercontent.com/stefanymazzei/stefanymazzei/main/Logo%20VsCode.webp" width="57" align="center" hspace="15" /> Visual Studio Code • Ambiente de Desenvolvimento (IDE)
 
 ### O que é a ferramenta?
 O **VS Code** é o ambiente de desenvolvimento de código mais utilizado do mundo, focado em alta produtividade, suporte a múltiplas linguagens e integração com versionamento.
