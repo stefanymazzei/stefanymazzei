@@ -152,7 +152,7 @@
     </td>
     <td>
       <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/docpay.md" target="_blank">
-        <img src="./Logo%20DocPay.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 11px; object-fit: contain;" />
+        <img src="./Logo%20DocPay.png" width="75" height="75" style="background-color: #1a1b26; border-radius: 10px; padding: 11px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>DocPay</b></font></sub>
     </td>
