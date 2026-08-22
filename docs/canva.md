@@ -1,4 +1,4 @@
-# <img src="https://skillicons.dev/icons?i=canva" width="50" align="center" /> Canva • Comunicação Visual & Design Ágil
+# <img src="https://raw.githubusercontent.com/stefanymazzei/stefanymazzei/main/Logo%20Canva.webp" width="60" align="center" /> Canva • Comunicação Visual & Design Ágil
 
 ### O que é a ferramenta?
 O **Canva** é uma plataforma gráfica voltada para a criação rápida e simplificada de materiais visuais corporativos.
