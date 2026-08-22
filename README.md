@@ -239,3 +239,7 @@
     <img src="./Logotipo%20facebook.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Facebook" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=100&section=footer" width="100%" />
+</p>
