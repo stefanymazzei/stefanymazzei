@@ -224,7 +224,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=stefanymsc64@gmail.com&su=Contato%20via%20GitHub%20-%20Stefany%20Mazzei&body=Ol%C3%A1%20Stefany%2C%20como%20est%C3%A1%3F%0A%0AEstou%20entrando%20em%20contato%20atrav%C3%A9s%20do%20seu%20GitHub%2C%20que%20inclusive%2C%20achei%20muito%20interessante%20e%20gostaria%20de%20saber%20mais%20detalhes%20sobre%20seus%20projetos%21%0A%0AAguardo%20seu%20retorno.%0A%0AAtenciosamente%3B" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" title="Gmail" />
+    <img src="./Logo%20Gmail.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/5511974866465?text=Ol%C3%A1%20_*Stefany*_%21%20Tudo%20bem%3F%20%F0%9F%98%8A%0A%0AEstou%20entrando%20em%20contato%20com%20voc%C3%AA%20atrav%C3%A9s%20do%20GitHub%2C%20gostaria%20de%20saber%20mais%20sobre%20seus%20projetos%20e%20trabalhos." target="_blank">
@@ -238,8 +238,4 @@
   <a href="https://www.facebook.com/stefany.cocuzzo.3/" target="_blank">
     <img src="./Logotipo%20facebook.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Facebook" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=100&section=footer" width="100%" />
 </p>
