@@ -216,6 +216,16 @@
 
 ---
 
+### ⏳ Trajetória Profissional
+
+<p align="center">
+  <video src="./Linha%20do%20Tempo.mp4" width="100%" max-width="700" controls autoplay muted loop playsinline style="border-radius: 10px;">
+    Seu navegador não suporta a exibição de vídeos HTML5.
+  </video>
+</p>
+
+---
+
 ### 🌐 Contato
 
 <p align="center">
@@ -238,4 +248,8 @@
   <a href="https://www.facebook.com/stefany.cocuzzo.3/" target="_blank">
     <img src="./Logotipo%20facebook.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px; object-fit: contain;" title="Facebook" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=100&section=footer" width="100%" />
 </p>
