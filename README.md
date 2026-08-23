@@ -219,9 +219,7 @@
 ### ⏳ Trajetória Profissional
 
 <p align="center">
-  <video src="./Linha%20do%20Tempo.mp4" width="100%" max-width="700" controls autoplay muted loop playsinline style="border-radius: 10px;">
-    Seu navegador não suporta a exibição de vídeos HTML5.
-  </video>
+  <img src="./Linha%20do%20Tempo.gif" width="100%" max-width="700" alt="Linha do Tempo - Stefany Mazzei" />
 </p>
 
 ---
