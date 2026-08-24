@@ -216,14 +216,108 @@
 
 ---
 
-### ⏳ Trajetória Profissional
+---
 
-<p align="center">
-  <a href="./docs/trajetoria.md">
-    <img src="./Linha%20Tempo.png" width="400" alt="Linha do Tempo - Trajetória Profissional Stefany Mazzei">
-  </a>
+### 📜 Trajetória Profissional
+
+<table border="0" width="100%">
+  <!-- EMPRESA 1: Winterhalter -->
+  <tr valign="top">
+    <td width="50" align="center">
+      <img src="https://github.com/stefanymazzei/stefanymazzei/raw/main/winterhalter.png" width="45" height="45" style="border-radius: 4px;" alt="Winterhalter" />
+    </td>
+    <td style="padding-left: 10px;">
+      <b style="font-size: 16px;">Assistente de Faturamento Jr.</b><br />
+      <span style="color: #c9d1d9;">Winterhalter Brasil · Tempo integral</span><br />
+      <sub style="color: #8b949e;">nov de 2024 - o momento · 1 ano 10 meses</sub><br />
+      <sub style="color: #8b949e;">São Caetano do Sul, São Paulo, Brasil · No local</sub>
+    </td>
+  </tr>
+
+  <!-- Divisória da empresa -->
+  <tr>
+    <td colspan="2"><hr style="border: 0; border-top: 1px solid #30363d;" /></td>
+  </tr>
+
+  <!-- EMPRESA 2: ACOSTA Contact Center (Agrupada) -->
+  <tr valign="top">
+    <td width="50" align="center">
+      <img src="https://github.com/stefanymazzei/stefanymazzei/raw/main/acosta.png" width="45" height="45" style="border-radius: 4px;" alt="ACOSTA" />
+    </td>
+    <td style="padding-left: 10px;">
+      <b style="font-size: 16px;">ACOSTA Contact Center</b><br />
+      <span style="color: #c9d1d9;">Tempo integral · 2 a 3 m</span>
+    </td>
+  </tr>
+
+  <!-- Cargo 1 dentro da ACOSTA -->
+  <tr valign="top">
+    <td align="center" style="border-right: 2px solid #8b949e; color: #8b949e; font-size: 12px; padding-top: 2px;">
+      ●
+    </td>
+    <td style="padding-left: 15px; padding-bottom: 15px;">
+      <b>Auxiliar administrativo</b><br />
+      <sub style="color: #8b949e;">set de 2023 - nov de 2024 · 1 ano 3 meses</sub><br />
+      <sub style="color: #8b949e;">São Caetano do Sul, São Paulo, Brasil</sub>
+    </td>
+  </tr>
+
+  <!-- Cargo 2 dentro da ACOSTA -->
+  <tr valign="top">
+    <td align="center" style="border-right: 2px solid #8b949e; color: #8b949e; font-size: 12px; padding-top: 2px;">
+      ●
+    </td>
+    <td style="padding-left: 15px; padding-bottom: 15px;">
+      <b>Monitor de teleatendimento</b><br />
+      <sub style="color: #8b949e;">abr de 2023 - set de 2023 · 6 meses</sub><br />
+      <sub style="color: #8b949e;">Presencial</sub>
+    </td>
+  </tr>
+
+  <!-- Cargo 3 dentro da ACOSTA -->
+  <tr valign="top">
+    <td align="center" style="border-right: 2px solid #8b949e; color: #8b949e; font-size: 12px; padding-top: 2px;">
+      ●
+    </td>
+    <td style="padding-left: 15px; padding-bottom: 10px;">
+      <b>Operador de telemarketing</b><br />
+      <sub style="color: #8b949e;">set de 2022 - abr de 2023 · 8 meses</sub><br />
+      <sub style="color: #8b949e;">São Caetano do Sul, São Paulo, Brasil · No local</sub>
+    </td>
+  </tr>
+
+  <!-- Divisória da empresa -->
+  <tr>
+    <td colspan="2"><hr style="border: 0; border-top: 1px solid #30363d;" /></td>
+  </tr>
+
+  <!-- EMPRESA 3: Casas Bahia -->
+  <tr valign="top">
+    <td width="50" align="center">
+      <img src="https://github.com/stefanymazzei/stefanymazzei/raw/main/casasbahia.png" width="45" height="45" style="border-radius: 4px;" alt="Casas Bahia" />
+    </td>
+    <td style="padding-left: 10px;">
+      <b style="font-size: 16px;">Jovem Aprendiz em Comercio e Varejo</b><br />
+      <span style="color: #c9d1d9;">Casas Bahia · Aprendiz</span><br />
+      <sub style="color: #8b949e;">mai de 2019 - mar de 2020 · 11 meses</sub><br />
+      <sub style="color: #8b949e;">São Caetano do Sul, São Paulo</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎓 Cursos & Certificações
+
+| Certificação / Curso | Instituição | Foco Principal |
+| :--- | :---: | :--- |
+| **Análise e Desenvolvimento de Sistemas** | Faculdade | Software, SQL, Engenharia de Software |
+| **Formação Python & Dados** | Alura / DIO | Automação, Análise de Dados e Scripts |
+| **Governança & ITSM** | ServiceNow | Gestão de Serviços de TI e Processos |
+
+<p align="right">
+  <a href="./docs/certificacoes.md">👉 <i>Ver histórico completo de cursos e certificados</i></a>
 </p>
-
 
 ---
 
