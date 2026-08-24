@@ -219,8 +219,11 @@
 ### ⏳ Trajetória Profissional
 
 <p align="center">
-  <img src="https://github.com/stefanymazzei/stefanymazzei/raw/main/Linha%20do%20Tempo.gif" width="100%" alt="Linha do Tempo - Stefany Mazzei" />
+  <a href="./docs/trajetoria.md">
+    <img src="./Linha%20do%20Tempo.png" width="800" alt="Linha do Tempo - Trajetória Profissional Stefany Mazzei">
+  </a>
 </p>
+
 
 ---
 
