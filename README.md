@@ -218,55 +218,72 @@
 
 ### 📜 Trajetória Profissional
 
-<p style="margin-bottom: 20px;">
-  <img src="https://github.com/stefanymazzei/stefanymazzei/raw/main/Logotipo%20Winterhalter.jpg" width="40" align="left" style="margin-right: 12px; border-radius: 4px;" alt="Winterhalter Logo" />
-  <b>Assistente de Faturamento Jr.</b><br />
-  <font color="#c9d1d9">Winterhalter Brasil · Tempo integral</font><br />
-  <sub><font color="#8b949e">nov de 2024 - o momento · 1 ano 10 meses</font></sub><br />
-  <sub><font color="#8b949e">São Caetano do Sul, São Paulo, Brasil · No local</font></sub>
-</p>
+<table border="0" width="100%">
+  <!-- Winterhalter -->
+  <tr valign="top">
+    <td width="48" align="center">
+      <img src="https://github.com/stefanymazzei/stefanymazzei/raw/main/Logo%20Winterhalter.jpg" width="40" style="border-radius: 4px;" alt="Winterhalter Logo" />
+    </td>
+    <td style="padding-left: 8px;">
+      <b>Assistente de Faturamento Jr.</b><br />
+      <font color="#c9d1d9">Winterhalter Brasil · Tempo integral</font><br />
+      <sub><font color="#8b949e">nov de 2024 - o momento · 1 ano 10 meses</font></sub><br />
+      <sub><font color="#8b949e">São Caetano do Sul, São Paulo, Brasil · No local</font></sub>
+    </td>
+  </tr>
 
-<!-- Linha sutil usando <hr> estilizada -->
-<hr style="height: 1px; border: none; background-color: #21262d; margin: 20px 0;" />
+  <!-- Espaçador -->
+  <tr><td colspan="2" height="15"></td></tr>
 
-<p style="margin-bottom: 10px;">
-  <img src="https://github.com/stefanymazzei/stefanymazzei/raw/main/Logo%20Acosta.jpg" width="40" align="left" style="margin-right: 12px; border-radius: 4px;" alt="Acosta Logo" />
-  <b>ACOSTA Contact Center</b><br />
-  <font color="#c9d1d9">Tempo integral · 2 a 3 m</font>
-</p>
+  <!-- Acosta -->
+  <tr valign="top">
+    <td width="48" align="center">
+      <img src="https://github.com/stefanymazzei/stefanymazzei/raw/main/Logo%20Acosta.jpg" width="40" style="border-radius: 4px;" alt="Acosta Logo" />
+    </td>
+    <td style="padding-left: 8px;">
+      <b>ACOSTA Contact Center</b><br />
+      <font color="#c9d1d9">Tempo integral · 2 a 3 m</font>
+    </td>
+  </tr>
 
-<blockquote style="border-left: 2px solid #30363d; padding-left: 15px; margin-left: 18px; margin-bottom: 20px;">
+  <!-- Cargos Agrupados da Acosta -->
+  <tr valign="top">
+    <td align="right" style="border-right: 2px solid #30363d; padding-right: 10px;"></td>
+    <td style="padding-left: 15px;">
+      <p style="margin-bottom: 12px;">
+        <b>Conjunto auxiliar administrativo</b><br />
+        <sub><font color="#8b949e">set de 2023 - nov de 2024 · 1 ano 3 meses</font></sub><br />
+        <sub><font color="#8b949e">São Caetano do Sul, São Paulo, Brasil</font></sub>
+      </p>
+      <p style="margin-bottom: 12px;">
+        <b>Monitor de teleatendimento</b><br />
+        <sub><font color="#8b949e">abr de 2023 - set de 2023 · 6 meses</font></sub><br />
+        <sub><font color="#8b949e">Presencial</font></sub>
+      </p>
+      <p style="margin-bottom: 0px;">
+        <b>Operadora de telemarketing</b><br />
+        <sub><font color="#8b949e">set de 2022 - abr de 2023 · 8 meses</font></sub><br />
+        <sub><font color="#8b949e">São Caetano do Sul, São Paulo, Brasil · Sem local</font></sub>
+      </p>
+    </td>
+  </tr>
 
-  <p style="margin-bottom: 15px;">
-    <b>Conjunto auxiliar administrativo</b><br />
-    <sub><font color="#8b949e">set de 2023 - nov de 2024 · 1 ano 3 meses</font></sub><br />
-    <sub><font color="#8b949e">São Caetano do Sul, São Paulo, Brasil</font></sub>
-  </p>
+  <!-- Espaçador -->
+  <tr><td colspan="2" height="15"></td></tr>
 
-  <p style="margin-bottom: 15px;">
-    <b>Monitor de teleatendimento</b><br />
-    <sub><font color="#8b949e">abr de 2023 - set de 2023 · 6 meses</font></sub><br />
-    <sub><font color="#8b949e">Presencial</font></sub>
-  </p>
-
-  <p style="margin-bottom: 0px;">
-    <b>Operadora de telemarketing</b><br />
-    <sub><font color="#8b949e">set de 2022 - abr de 2023 · 8 meses</font></sub><br />
-    <sub><font color="#8b949e">São Caetano do Sul, São Paulo, Brasil · Sem local</font></sub>
-  </p>
-
-</blockquote>
-
-<!-- Linha sutil usando <hr> estilizada -->
-<hr style="height: 1px; border: none; background-color: #21262d; margin: 20px 0;" />
-
-<p style="margin-top: 20px;">
-  <img src="https://github.com/stefanymazzei/stefanymazzei/raw/main/Logo%20Casas%20Bahia.jpg" width="40" align="left" style="margin-right: 12px; border-radius: 4px;" alt="Casas Bahia Logo" />
-  <b>Jovem Aprendiz em Comercio e Varejo</b><br />
-  <font color="#c9d1d9">Casas Bahia · Aprendiz</font><br />
-  <sub><font color="#8b949e">mai de 2019 - mar de 2020 · 11 meses</font></sub><br />
-  <sub><font color="#8b949e">São Caetano do Sul, São Paulo</font></sub>
-</p>
+  <!-- Casas Bahia -->
+  <tr valign="top">
+    <td width="48" align="center">
+      <img src="https://github.com/stefanymazzei/stefanymazzei/raw/main/Logo%20Casas%20Bahia.jpg" width="40" style="border-radius: 4px;" alt="Casas Bahia Logo" />
+    </td>
+    <td style="padding-left: 8px;">
+      <b>Jovem Aprendiz em Comercio e Varejo</b><br />
+      <font color="#c9d1d9">Casas Bahia · Aprendiz</font><br />
+      <sub><font color="#8b949e">mai de 2019 - mar de 2020 · 11 meses</font></sub><br />
+      <sub><font color="#8b949e">São Caetano do Sul, São Paulo</font></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
