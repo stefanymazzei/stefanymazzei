@@ -220,7 +220,7 @@
 
 <p align="center">
   <a href="./docs/trajetoria.md">
-    <img src="./Linha%20do%20Tempo.png" width="800" alt="Linha do Tempo - Trajetória Profissional Stefany Mazzei">
+    <img src="./Linha%20Tempo.png" width="400" alt="Linha do Tempo - Trajetória Profissional Stefany Mazzei">
   </a>
 </p>
 
