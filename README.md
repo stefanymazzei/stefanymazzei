@@ -237,7 +237,7 @@
 | **Governança & ITSM** | ServiceNow | Gestão de Serviços de TI e Processos |
 
 <p align="right">
-  <a href="./docs/certificacoes.md">👉 <i>Ver histórico completo de cursos e certificados</i></a>
+  <sub><a href="./docs/certificacoes.md">👉 <i>Ver histórico completo de cursos e certificados</i></a></sub>
 </p>
 
 ---
