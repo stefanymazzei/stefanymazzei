@@ -218,72 +218,13 @@
 
 ### 📜 Trajetória Profissional
 
-<table border="0" width="100%">
-  <!-- Winterhalter -->
-  <tr valign="top">
-    <td width="48" align="center">
-      <img src="https://github.com/stefanymazzei/stefanymazzei/raw/main/Logo%20Winterhalter.jpg" width="40" style="border-radius: 4px;" alt="Winterhalter Logo" />
-    </td>
-    <td style="padding-left: 8px;">
-      <b>Assistente de Faturamento Jr.</b><br />
-      <font color="#c9d1d9">Winterhalter Brasil · Tempo integral</font><br />
-      <sub><font color="#8b949e">nov de 2024 - o momento · 1 ano 10 meses</font></sub><br />
-      <sub><font color="#8b949e">São Caetano do Sul, São Paulo, Brasil · No local</font></sub>
-    </td>
-  </tr>
-
-  <!-- Espaçador -->
-  <tr><td colspan="2" height="15"></td></tr>
-
-  <!-- Acosta -->
-  <tr valign="top">
-    <td width="48" align="center">
-      <img src="https://github.com/stefanymazzei/stefanymazzei/raw/main/Logo%20Acosta.jpg" width="40" style="border-radius: 4px;" alt="Acosta Logo" />
-    </td>
-    <td style="padding-left: 8px;">
-      <b>ACOSTA Contact Center</b><br />
-      <font color="#c9d1d9">Tempo integral · 2 a 3 m</font>
-    </td>
-  </tr>
-
-  <!-- Cargos Agrupados da Acosta -->
-  <tr valign="top">
-    <td align="right" style="border-right: 2px solid #30363d; padding-right: 10px;"></td>
-    <td style="padding-left: 15px;">
-      <p style="margin-bottom: 12px;">
-        <b>Conjunto auxiliar administrativo</b><br />
-        <sub><font color="#8b949e">set de 2023 - nov de 2024 · 1 ano 3 meses</font></sub><br />
-        <sub><font color="#8b949e">São Caetano do Sul, São Paulo, Brasil</font></sub>
-      </p>
-      <p style="margin-bottom: 12px;">
-        <b>Monitor de teleatendimento</b><br />
-        <sub><font color="#8b949e">abr de 2023 - set de 2023 · 6 meses</font></sub><br />
-        <sub><font color="#8b949e">Presencial</font></sub>
-      </p>
-      <p style="margin-bottom: 0px;">
-        <b>Operadora de telemarketing</b><br />
-        <sub><font color="#8b949e">set de 2022 - abr de 2023 · 8 meses</font></sub><br />
-        <sub><font color="#8b949e">São Caetano do Sul, São Paulo, Brasil · Sem local</font></sub>
-      </p>
-    </td>
-  </tr>
-
-  <!-- Espaçador -->
-  <tr><td colspan="2" height="15"></td></tr>
-
-  <!-- Casas Bahia -->
-  <tr valign="top">
-    <td width="48" align="center">
-      <img src="https://github.com/stefanymazzei/stefanymazzei/raw/main/Logo%20Casas%20Bahia.jpg" width="40" style="border-radius: 4px;" alt="Casas Bahia Logo" />
-    </td>
-    <td style="padding-left: 8px;">
-      <b>Jovem Aprendiz em Comercio e Varejo</b><br />
-      <font color="#c9d1d9">Casas Bahia · Aprendiz</font><br />
-      <sub><font color="#8b949e">mai de 2019 - mar de 2020 · 11 meses</font></sub><br />
-      <sub><font color="#8b949e">São Caetano do Sul, São Paulo</font></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="./docs/trajetoria.md">
+    <img src="https://github.com/stefanymazzei/stefanymazzei/raw/main/Linha%20do%20Tempo.gif" width="685" style="border-radius: 8px;" alt="Linha do Tempo Animada - Stefany Mazzei" />
+  </a>
+  <br />
+  <sub>👉 <i>Clique no GIF para ver os detalhes completos da minha experiência profissional.</i></sub>
+</p>
 
 ---
 
