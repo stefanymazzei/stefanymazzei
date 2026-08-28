@@ -121,44 +121,44 @@
 <table>
   <tr align="center">
     <td>
-      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/sap.md" target="_blank">
-        <img src="./Logo%20SAP.webp" width="63" height="63" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
+      <a href="./docs/mds/sap.md" target="_blank">
+        <img src="./docs/logomarcas/Logo%20SAP.webp" width="63" height="63" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>SAP</b></font></sub>
     </td>
     <td>
-      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/zoho.md" target="_blank">
-        <img src="./Logo%20ZOHO.png" width="78" height="80" style="background-color: #1a1b26; border-radius: 10px; padding: 4px; object-fit: contain;" />
+      <a href="./docs/mds/zoho.md" target="_blank">
+        <img src="./docs/logomarcas/Logo%20ZOHO.png" width="78" height="80" style="background-color: #1a1b26; border-radius: 10px; padding: 4px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Zoho CRM</b></font></sub>
     </td>
     <td>
-      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/qive.md" target="_blank">
-        <img src="./Logo%20QIVE.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
+      <a href="./docs/mds/qive.md" target="_blank">
+        <img src="./docs/logomarcas/Logo%20QIVE.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>QIVE</b></font></sub>
     </td>
     <td>
-      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/cobmais.md" target="_blank">
-        <img src="./Logo%20Cobmais.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
+      <a href="./docs/mds/cobmais.md" target="_blank">
+        <img src="./docs/logomarcas/Logo%20Cobmais.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Cobmais</b></font></sub>
     </td>
     <td>
-      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/alpheratz.md" target="_blank">
-        <img src="./Logo%20Alpheratz.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
+      <a href="./docs/mds/alpheratz.md" target="_blank">
+        <img src="./docs/logomarcas/Logo%20Alpheratz.png" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Alpheratz</b></font></sub>
     </td>
     <td>
-      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/docpay.md" target="_blank">
-        <img src="./Logo%20DocPay.png" width="55" height="55" style="background-color: #1a1b26; border-radius: 10px; padding: 11px; object-fit: contain;" />
+      <a href="./docs/mds/docpay.md" target="_blank">
+        <img src="./docs/logomarcas/Logo%20DocPay.png" width="55" height="55" style="background-color: #1a1b26; border-radius: 10px; padding: 11px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>DocPay</b></font></sub>
     </td>
     <td>
-      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/totalip.md" target="_blank">
-        <img src="./Logo%20Total%20IP.jpg" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
+      <a href="./docs/mds/totalip.md" target="_blank">
+        <img src="./docs/logomarcas/Logo%20Total%20IP.jpg" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Total IP</b></font></sub>
     </td>
