@@ -172,26 +172,26 @@
 <table>
   <tr align="center">
     <td>
-      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/excel.md" target="_blank">
-        <img src="./Logo%20Excel.png" width="45" height="46" style="background-color: #1a1b26; border-radius: 10px; padding: 9px; object-fit: contain;" />
+      <a href="./docs/mds/excel.md" target="_blank">
+        <img src="./docs/logomarcas/Logo%20Excel.png" width="45" height="46" style="background-color: #1a1b26; border-radius: 10px; padding: 9px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Excel</b></font></sub>
     </td>
     <td>
-      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/word.md" target="_blank">
-        <img src="./Logo%20Word.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
+      <a href="./docs/mds/word.md" target="_blank">
+        <img src="./docs/logomarcas/Logo%20Word.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Word</b></font></sub>
     </td>
     <td>
-      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/powerpoint.md" target="_blank">
-        <img src="./Logo%20PowerPoint.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
+      <a href="./docs/mds/powerpoint.md" target="_blank">
+        <img src="./docs/logomarcas/Logo%20PowerPoint.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>PowerPoint</b></font></sub>
     </td>
     <td>
-      <a href="https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/powerbi.md" target="_blank">
-        <img src="./Logo%20PowerBI.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
+      <a href="./docs/mds/powerbi.md" target="_blank">
+        <img src="./docs/logomarcas/Logo%20PowerBI.webp" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
       </a><br />
       <sub><font color="#8b949e"><b>Power BI</b></font></sub>
     </td>
