@@ -201,10 +201,36 @@
 ---
 
 ### ⚙️ Projetos
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=stefanymazzei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanymazzei&layout=compact&theme=dracula"/>
-</p>
+
+<table>
+  <!-- 1. Imagens com largura (width) e altura (height) fixas em pixels -->
+  <tr align="center">
+    <td width="50%">
+      <a href="https://stefanymazzei.github.io/L-U-N-N-A/" target="_blank">
+        <img src="./docs/capas/Capa_LUNNA.jpeg" alt="Capa LUNNA" style="width: 520px; height: 280px; border-radius: 8px; object-fit: cover;" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/stefanymazzei/GreenLink" target="_blank">
+        <img src="./docs/capas/Capa_GreenLink.jpeg" alt="Capa GreenLink" style="width: 520px; height: 280px; border-radius: 8px; object-fit: cover;" />
+      </a>
+    </td>
+  </tr>
+
+  <!-- 2. Título + Descrição + Botão (com fonte dos links reduzida) -->
+  <tr align="center">
+    <td valign="top">
+      <b>L U N N A | E-commerce de Alta Joalheria</b><br />
+      <sub><font color="#8b949e">Desenvolvimento front-end responsivo (HTML5, CSS3, JS) focado em UI/UX de luxo.</font></sub><br />
+      <sub><a href="https://stefanymazzei.github.io/L-U-N-N-A/" target="_blank"><b>🌐 Acessar Site</b></a></sub>
+    </td>
+    <td valign="top">
+      <b>GreenLink | Plataforma de Sustentabilidade</b><br />
+      <sub><font color="#8b949e">🚧 Em construção!</font></sub><br />
+      <sub><a href="https://github.com/stefanymazzei/GreenLink" target="_blank"><b>📂 Ver Repositório</b></a></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
