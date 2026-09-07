@@ -207,12 +207,12 @@
   <tr align="center">
     <td width="50%">
       <a href="https://stefanymazzei.github.io/L-U-N-N-A/" target="_blank">
-        <img src="./docs/capas/Capa_LUNNA.jpeg" alt="Capa LUNNA" style="width: 520px; height: 280px; border-radius: 8px; object-fit: cover;" />
+        <img src="./docs/capas/Capa_LUNNA.jpeg" alt="Capa LUNNA" style="width: 520px; height: 240px; border-radius: 8px; object-fit: cover;" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/stefanymazzei/GreenLink" target="_blank">
-        <img src="./docs/capas/Capa_GreenLink.jpeg" alt="Capa GreenLink" style="width: 520px; height: 280px; border-radius: 8px; object-fit: cover;" />
+        <img src="./docs/capas/Capa_GreenLink.jpeg" alt="Capa GreenLink" style="width: 520px; height: 240px; border-radius: 8px; object-fit: cover;" />
       </a>
     </td>
   </tr>
