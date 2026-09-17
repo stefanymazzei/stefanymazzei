@@ -202,8 +202,6 @@
 
 ### ⚙️ Projetos
 
-### ⚙️ Projetos
-
 <table>
   <!-- LINHA 1: Imagens -->
   <tr align="center">
@@ -237,7 +235,7 @@
   <tr align="center">
     <td width="50%">
       <a href="https://stefanymazzei.github.io/UX-UI/" target="_blank">
-        <img src="https://raw.githubusercontent.com/stefanymazzei/UX-UI/main/UX%20e%20UI%20(capa).png" alt="Capa UX e UI" style="width: 520px; height: 240px; border-radius: 8px; object-fit: cover;" />
+        <img src="./docs/capas/UX%20%26%20UI%20(capa).png" alt="Capa UX e UI" style="width: 520px; height: 240px; border-radius: 8px; object-fit: cover;" />
       </a>
     </td>
     <td width="50%"></td>
@@ -253,7 +251,6 @@
     <td valign="top"></td>
   </tr>
 </table>
-
 ---
 
 ### 🎯 Objetivos
