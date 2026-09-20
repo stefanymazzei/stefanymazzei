@@ -274,13 +274,24 @@
 
 ---
 
-### 🎓 Cursos & Certificações
+### 🎓 Formação Acadêmica & Certificações
 
-| Certificação / Curso | Instituição | Foco Principal |
-| :--- | :---: | :--- |
-| **Análise e Desenvolvimento de Sistemas** | Faculdade | Software, SQL, Engenharia de Software |
-| **Formação Python & Dados** | Alura / DIO | Automação, Análise de Dados e Scripts |
-| **Governança & ITSM** | ServiceNow | Gestão de Serviços de TI e Processos |
+#### 🏛️ Ensino Superior
+| Grau | Curso | Previsão de Conclusão | Status |
+| :--- | :--- | :---: | :---: |
+| **Tecnólogo** | Análise e Desenvolvimento de Sistemas | Dezembro de 2027 | ⏳ Em andamento |
+| **Bacharelado** | Administração Empresarial | Junho de 2028 | ⏳ Em andamento |
+
+<br />
+
+#### 📜 Certificações & Cursos Técnicos
+| Certificação / Curso | Foco Principal | Conclusão | Status |
+| :--- | :--- | :---: | :---: |
+| **UX & UI Design** | Design de Interfaces, Experiência do Usuário e Usabilidade | Fev / 2026 | Concluído |
+| **Microsoft Power BI** | Business Intelligence, Modelagem e Visualização de Dados | Fev / 2026 | Concluído |
+| **Banco de Dados para Data Science** | Modelagem Relacional, Consultas SQL e Análise de Dados | Mai / 2026 | Concluído |
+| **Microsoft AZ-900** | Implantação e Fundamentos de Serviços em Nuvem Azure | Jun / 2026 | Concluído |
+| **ServiceNow CSA** | Administração de Sistemas, Governança ITSM e Plataforma | Jul / 2026 | Concluído |
 
 <p align="right">
   <sub><a href="./docs/certificacoes.md">👉 <i>Ver histórico completo de cursos e certificados</i></a></sub>
