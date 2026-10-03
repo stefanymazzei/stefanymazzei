@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/stefanymazzei/stefanymazzei/main/Logo%20Total%20IP.jpg" width="60" align="center" /> Total IP • Telefonia IP & Atendimento ao Cliente
+# <img src="../logomarcas/Logo Total IP.jpg" width="60" align="center" /> Total IP • Telefonia IP & Atendimento ao Cliente
 
 ### O que é a plataforma?
 O **Total IP** é uma solução integrada de PABX IP e contact center para gestão de atendimento telefônico, discagem automatizada e controle de qualidade.
