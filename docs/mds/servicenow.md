@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/stefanymazzei/stefanymazzei/main/Logo%20ServiceNow.png" width="65" align="center" /> ServiceNow • Gestão de Serviços & Governança (ITSM)
+# <img src="../logomarcas/Logo ServiceNow.png" width="65" align="center" /> ServiceNow • Gestão de Serviços & Governança (ITSM)
 
 ### O que é a plataforma?
 O **ServiceNow** é uma das maiores plataformas globais de automação de workflows corporativos, gerenciamento de serviços e governança de TI.
