@@ -1,4 +1,4 @@
-# <img src="../logomarcas/Logo Cobmais.png" width="55" align="center" /> Cobmais — Recuperação de Crédito & Gestão de Cobrança
+# <img src="../logomarcas/Logo Cobmais.png" width="55" align="center" /> Cobmais • Recuperação de Crédito & Gestão de Cobrança
 
 ### O que é a plataforma?
 O **Cobmais** é um software focado na automação e gestão de processos de cobrança, recuperação de crédito e renegociação de dívidas.
