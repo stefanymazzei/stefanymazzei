@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/stefanymazzei/stefanymazzei/main/Logo%20SAP.webp" width="100" align="center" /> • Experiência & Utilização Prática
+# <img src="../logomarcas/Logo SAP.webp" width="100" align="center" /> • Experiência & Utilização Prática
 
 ### O que é a plataforma?
 O **SAP** é um sistema integrado de gestão empresarial (ERP) utilizado globalmente para automatizar e conectar processos financeiros, contábeis, logísticos e operacionais.
