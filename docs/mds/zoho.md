@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/stefanymazzei/stefanymazzei/main/Logo%20ZOHO.png" width="100" align="center" /> Zoho CRM • Gestão de Relacionamento & Vendas
+# <img src="../logomarcas/Logo ZOHO.png" width="100" align="center" /> Zoho CRM • Gestão de Relacionamento & Vendas
 
 ### O que é a plataforma?
 O **Zoho CRM** é uma plataforma na nuvem focada na gestão de relacionamento com o cliente, automação da força de vendas e pipeline comercial.
