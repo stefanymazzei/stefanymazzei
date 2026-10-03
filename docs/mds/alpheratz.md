@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/stefanymazzei/stefanymazzei/main/Logo%20Alpheratz.png" width="50" align="center" /> Alpheratz • Gestão de Processos & Fluxos Operacionais
+# <img src="../logomarcas/Logo Alpheratz.png" width="65" align="center" /> Alpheratz • Gestão de Processos & Fluxos Operacionais
 
 ### O que é a plataforma?
 O **Alpheratz** é um sistema corporativo focado no controle, otimização e monitoramento de fluxos operacionais e rotinas administrativas específicas.
