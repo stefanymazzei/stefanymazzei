@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/stefanymazzei/stefanymazzei/main/Logo%20Antigravity.webp" width="50" align="center" /> Antigravity • Automação & Eficiência Operacional
+# <img src="../logomarcas/Logo Antigravity.webp" width="50" align="center" /> Antigravity • Automação & Eficiência Operacional
 
 ### O que é a ferramenta?
 O **Antigravity** é uma plataforma/solução voltada para automação de processos, otimização de workflows e aumento da produtividade operacional.
