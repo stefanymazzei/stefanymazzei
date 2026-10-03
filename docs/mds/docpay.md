@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/stefanymazzei/stefanymazzei/main/Logo%20DocPay.png" width="100" align="center" /> DocPay • Gestão de Pagamentos & Comprovantes
+# <img src="../logomarcas/Logo DocPay.png" width="100" align="center" /> DocPay • Gestão de Pagamentos & Comprovantes
 
 ### O que é a plataforma?
 O **DocPay** é uma plataforma focada na liquidação de títulos, automação de pagamentos e organização de comprovantes financeiros corporativos.
