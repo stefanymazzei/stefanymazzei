@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/stefanymazzei/stefanymazzei/main/Logo%20QIVE.png" width="50" align="center" /> QIVE (Arquivei) • Gestão de Documentos Fiscais
+# <img src="../logomarcas/Logo QIVE.png" width="50" align="center" /> QIVE (Arquivei) • Gestão de Documentos Fiscais
 
 ### O que é a plataforma?
 O **QIVE (antigo Arquivei)** é uma plataforma voltada para consulta, download, gestão e organização automática de documentos fiscais (NF-e, NFS-e, CT-e) diretamente da SEFAZ.
