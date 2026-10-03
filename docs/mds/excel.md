@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/stefanymazzei/stefanymazzei/main/Logo%20Excel.png" width="50" align="center" /> Microsoft Excel • Análise de Dados & Modelagem Financeira
+# <img src="../logomarcas/Logo Excel.png" width="50" align="center" /> Microsoft Excel • Análise de Dados & Modelagem Financeira
 
 ### O que é a ferramenta?
 O **Microsoft Excel** é a ferramenta de planilhas eletrônicas líder de mercado, utilizada para organização de dados, cálculos complexos, automações e construção de relatórios.
