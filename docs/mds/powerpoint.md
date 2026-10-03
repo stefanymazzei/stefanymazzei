@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/stefanymazzei/stefanymazzei/main/Logo%20PowerPoint.webp" width="50" align="center" /> Microsoft PowerPoint • Apresentações Executivas & Visual Storytelling
+# <img src="../logomarcas/Logo PowerPoint.webp" width="50" align="center" /> Microsoft PowerPoint • Apresentações Executivas & Visual Storytelling
 
 ### O que é a ferramenta?
 O **Microsoft PowerPoint** é a plataforma da Microsoft voltada para a criação de apresentações visuais e comunicação de resultados.
