@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/stefanymazzei/stefanymazzei/main/Logo%20Word.webp" width="50" align="center" /> Microsoft Word • Documentação & Padronização Corporativa
+# <img src="../logomarcas/Logo Word.webp" width="50" align="center" /> Microsoft Word • Documentação & Padronização Corporativa
 
 ### O que é a ferramenta?
 O **Microsoft Word** é o processador de texto padrão para criação, edição e estruturação de documentos corporativos formais.
