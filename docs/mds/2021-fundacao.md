@@ -6,7 +6,7 @@ Abaixo estão listados os cursos concluídos nesta instituição durante o ano d
 
 | Curso / Certificação | Instituição | Conclusão | Comprovante |
 | :--- | :--- | :---: | :---: |
-| **Fundamentos de COBIT® 4.1** | Fundação Bradesco | 27/01/06/2021 | [📃 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Fundamentos%20de%20COBIT%C2%AE%204.1%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+| **Fundamentos de COBIT® 4.1** | Fundação Bradesco | 27/01/2021 | [📃 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Fundamentos%20de%20COBIT%C2%AE%204.1%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
 
 ---
 
