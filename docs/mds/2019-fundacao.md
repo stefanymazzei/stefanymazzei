@@ -1,4 +1,4 @@
-# <img src="./logomarcas/bradesco.png" height="60" align="center" />  Fundação Bradesco • 2019
+# <img src="../logomarcas/bradesco.png" height="60" align="center" />  Fundação Bradesco • 2019
 
 ### Certificações de 2019
 
