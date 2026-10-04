@@ -134,4 +134,4 @@ Abaixo estão listados os cursos concluídos nesta instituição durante o ano d
 
 ---
 
-[← Voltar para Instituições](./certificacoes.md) | [🌐 Início](https://github.com/stefanymazzei)
+[⬅️ Voltar para Instituições](./certificacoes.md) | [🌐 Início](https://github.com/stefanymazzei)
