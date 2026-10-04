@@ -38,7 +38,7 @@ Selecione a instituição de ensino e o ano correspondente para visualizar os ce
     </td>
     <td>
       <br />
-      <a href="./anos/senai-2026.md">📂 <b>2026</b></a>
+      <a href="./senai-2026.md">📂 <b>2026</b></a>
     </td>
     <td>
       <br />
