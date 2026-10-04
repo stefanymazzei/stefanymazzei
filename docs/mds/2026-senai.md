@@ -1,4 +1,4 @@
-# <img src="../logomarcas/senai.png" height="60" align="center" />  • 2026
+# <img src="../logomarcas/senai.png" height="40" align="center" /> Serviço de Aprendizagem Industrial • 2026
 
 ### Certificações de 2026
 
