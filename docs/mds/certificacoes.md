@@ -52,4 +52,4 @@ Selecione a instituição de ensino e o ano correspondente para visualizar os ce
 
 ---
 
-[← Voltar ao Perfil Principal](https://github.com/stefanymazzei)
+[⬅️ Voltar ao Perfil Principal](https://github.com/stefanymazzei)
