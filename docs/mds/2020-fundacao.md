@@ -1,8 +1,12 @@
 # <img src="../logomarcas/bradesco.png" height="60" align="center" />  Fundação Bradesco • 2020
 
-### Certificações de 2019
+### Certificações de 2020
 
-Abaixo estão listados os cursos concluídos nesta instituição durante o ano de 2019. Clique em **Visualizar Comprovante** para abrir o certificado em PDF.
+Abaixo estão listados os cursos concluídos nesta instituição durante o ano de 2020, organizados por mês. Clique em **Visualizar Certificado** para abrir o documento em PDF.
+
+---
+
+### 🗓️ Junho (06)
 
 | Curso / Certificação | Instituição | Conclusão | Comprovante |
 | :--- | :--- | :---: | :---: |
@@ -57,6 +61,13 @@ Abaixo estão listados os cursos concluídos nesta instituição durante o ano d
 | **Geografia: Relevo Terrestre** | Fundação Bradesco | 28/06/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Geografia%20-%20Relevo%20Terrestre%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
 | **Química: Estados físicos e propriedades das substâncias** | Fundação Bradesco | 28/06/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Qu%C3%ADmica%20-%20Estados%20f%C3%ADsicos%20e%20propriedades%20das%20subst%C3%A2ncias%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
 | **Física: Física, Natureza e Tecnologia** | Fundação Bradesco | 28/06/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/F%C3%ADsica%20-%20F%C3%ADsica%2C%20Natureza%20e%20Tecnologia%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+
+---
+
+### 🗓️ Julho (07)
+
+| Curso / Certificação | Instituição | Conclusão | Comprovante |
+| :--- | :--- | :---: | :---: |
 | **Atendimento ao Público** | Fundação Bradesco | 01/07/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Atendimento%20ao%20P%C3%BAblico%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
 | **Técnicas de Lazer e Recreação** | Fundação Bradesco | 01/07/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/T%C3%A9cnicas%20de%20Lazer%20e%20Recrea%C3%A7%C3%A3o%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
 | **Organização Pessoal** | Fundação Bradesco | 01/07/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Organiza%C3%A7%C3%A3o%20Pessoal%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
@@ -64,19 +75,63 @@ Abaixo estão listados os cursos concluídos nesta instituição durante o ano d
 | **Finanças Pessoais** | Fundação Bradesco | 05/07/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Finan%C3%A7as%20Pessoais%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
 | **Postura e Imagem Profissional** | Fundação Bradesco | 05/07/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Postura%20e%20Imagem%20Profissional%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
 | **Comunicação Empresarial** | Fundação Bradesco | 05/07/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Comunica%C3%A7%C3%A3o%20Empresarial%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+
+---
+
+### 🗓️ Agosto (08)
+
+| Curso / Certificação | Instituição | Conclusão | Comprovante |
+| :--- | :--- | :---: | :---: |
 | **Biologia - Alimentação e Saúde** | Fundação Bradesco | 27/08/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Biologia%20-%20Alimenta%C3%A7%C3%A3o%20e%20Sa%C3%BAde%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
 | **Lingua Inglesa - Adjetivos** | Fundação Bradesco | 27/08/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/L%C3%ADngua%20Inglesa%20-%20Adjectives%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
 | **Língua Inglesa: Different types of texts** | Fundação Bradesco | 27/08/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/L%C3%ADngua%20Inglesa%20-%20Different%20types%20of%20texts%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
 | **Modelagem de Dados** | Fundação Bradesco | 27/08/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Model.%20de%20Dados%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+
+---
+
+### 🗓️ Setembro (09)
+
+| Curso / Certificação | Instituição | Conclusão | Comprovante |
+| :--- | :--- | :---: | :---: |
 | **Aprendendo na Web** | Fundação Bradesco | 01/09/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Aprendendo%20na%20Web%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
 | **Desenvolvimento Profissional** | Fundação Bradesco | 01/09/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Desenvolvimento%20Profissional%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
 | **Introdução à Comunicação Empresarial** | Fundação Bradesco | 01/09/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Introdu%C3%A7%C3%A3o%20%C3%A0%20Comunica%C3%A7%C3%A3o%20Empresarial%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
 | **Responsabilidade Social e Sustentabilidade** | Fundação Bradesco | 01/09/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Responsabilidade%20Social%20e%20Sustentabilidade%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
 | **Geografia - Solos** | Fundação Bradesco | 06/09/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Geografia%20-%20Solos%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
 | **Língua Inglesa: Basic Review** | Fundação Bradesco | 06/09/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/L%C3%ADngua%20Inglesa%20-%20Basic%20Review%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
-
-
+| **Língua Inglesa - Verbs in the future** | Fundação Bradesco | 06/09/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/L%C3%ADngua%20Inglesa%20-%20Verbs%20in%20the%20future%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+| **Língua Portuguesa - Variedades Linguísticas** | Fundação Bradesco | 06/09/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/L%C3%ADngua%20Portuguesa%20-%20Variedades%20Lingu%C3%ADsticas%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+| **Física: Grandezas Físicas e Unidades de Medidas** | Fundação Bradesco | 09/09/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/F%C3%ADsica%20-%20Grandezas%20F%C3%ADsicas%20e%20Unidades%20de%20Medidas%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+| **Implementando Bancos de Dados** | Fundação Bradesco | 09/09/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Implement.%20Bancos%20de%20Dados%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+| **Microsoft Excel 2016 - Avançado** | Fundação Bradesco | 16/09/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Microsoft%20Excel%202016%20-%20Avan%C3%A7ado%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+| **Microsoft Excel 2016 - Básico** | Fundação Bradesco | 16/09/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Microsoft%20Excel%202016%20-%20B%C3%A1sico%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+| **Microsoft Office 365 - Conhecendo o OneDrive** | Fundação Bradesco | 16/09/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Microsoft%20Office%20365%20-%20Conhecendo%20o%20OneDrive%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+| **Projetos de Sistemas de TI** | Fundação Bradesco | 16/09/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Projetos%20de%20Sistemas%20de%20TI%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+| **Desenv. Aplicações Mobile com Android Studio** | Fundação Bradesco | 16/09/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Desenv.%20Aplica%C3%A7%C3%B5es%20Mobile%20com%20Android%20Studio%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
 
 ---
 
-[← Voltar para Instituições](../certificacoes.md) | [🌐 Início](https://github.com/stefanyma
+### 🗓️️ Outubro (10)
+
+| Curso / Certificação | Instituição | Conclusão | Comprovante |
+| :--- | :--- | :---: | :---: |
+| **Inovando com CSS** | Fundação Bradesco | 21/10/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Inovando%20com%20CSS%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+| **Recursos Educacionais Abertos (REA)** | Fundação Bradesco | 21/10/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Recursos%20Educacionais%20Abertos%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+| **Microsoft PowerPoint 2016 - Avançado** | Fundação Bradesco | 21/10/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Microsoft%20PowerPoint%202016%20-%20Avan%C3%A7ado%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+| **Fundamentos de ITIL** | Fundação Bradesco | 31/10/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Fundamentos%20de%20ITIL%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+| **Boas práticas na produção de vídeoaulas** | Fundação Bradesco | 31/10/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Boas%20pr%C3%A1ticas%20na%20produ%C3%A7%C3%A3o%20de%20videoaulas%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+| **Ética no Desenvolvimento de Sistemas** | Fundação Bradesco | 31/10/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/%C3%89tica%20no%20Desenvolvimento%20de%20Sistemas%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+
+---
+
+### 🗓️ Dezembro (12)
+
+| Curso / Certificação | Instituição | Conclusão | Comprovante |
+| :--- | :--- | :---: | :---: |
+| **Fundamentos das Aplicações Móveis** | Fundação Bradesco | 14/12/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Fundamentos%20das%20Aplica%C3%A7%C3%B5es%20M%C3%B3veis%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+| **Regulação da Preocupação e da Ansiedade** | Fundação Bradesco | 14/12/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Regula%C3%A7%C3%A3o%20da%20preocupa%C3%A7%C3%A3o%20e%20da%20ansiedade%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+| **Fotografias com Dispositivos Móveis** | Fundação Bradesco | 14/12/2020 | [🌐 Visualizar Certificado](https://github.com/stefanymazzei/stefanymazzei/blob/main/docs/certificados/fundacao-bradesco/Fotografias%20com%20Dispositivos%20M%C3%B3veis%20(Funda%C3%A7%C3%A3o%20Bradesco).pdf) |
+
+---
+
+[← Voltar para Instituições](../certificacoes.md) | [🌐 Início](https://github.com/stefanymazzei)
