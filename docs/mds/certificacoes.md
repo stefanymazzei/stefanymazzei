@@ -8,13 +8,13 @@ Selecione a instituição de ensino e o ano correspondente para visualizar os ce
   <!-- 1. Linha com os Logos das Instituições -->
   <tr align="center">
     <th width="33%">
-      <img src="./logomarcas/fundacao.jpg" alt="Fundação Bradesco" height="80" style="object-fit: contain; border-radius: 6px;" />
+      <img src="../logomarcas/fundacao.jpg" alt="Fundação Bradesco" height="80" style="object-fit: contain; border-radius: 6px;" />
     </th>
     <th width="33%">
-      <img src="./logomarcas/senai.png" alt="SENAI" height="80" style="object-fit: contain; border-radius: 6px;" />
+      <img src="../logomarcas/senai.png" alt="SENAI" height="80" style="object-fit: contain; border-radius: 6px;" />
     </th>
     <th width="33%">
-      <img src="./logomarcas/uninove.png" alt="UNINOVE" height="80" style="object-fit: contain; border-radius: 6px;" />
+      <img src="../logomarcas/uninove.png" alt="UNINOVE" height="80" style="object-fit: contain; border-radius: 6px;" />
     </th>
   </tr>
 
