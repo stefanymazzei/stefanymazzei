@@ -32,8 +32,6 @@ Selecione a instituição de ensino e o ano correspondente para visualizar os ce
       <a href="./2026-fundacao.md">📂 <b>2026</b></a><br /><br />
       <a href="./2025-fundacao.md">📂 <b>2025</b></a><br /><br />
       <a href="./2024-fundacao.md">📂 <b>2024</b></a><br /><br />
-      <a href="./2023-fundacao.md">📂 <b>2023</b></a><br /><br />
-      <a href="./2022-fundacao.md">📂 <b>2022</b></a><br /><br />
       <a href="./2021-fundacao.md">📂 <b>2021</b></a><br /><br />
       <a href="./2020-fundacao.md">📂 <b>2020</b></a><br /><br />
       <a href="./2019-fundacao.md">📂 <b>2019</b></a>
