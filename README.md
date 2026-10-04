@@ -294,7 +294,7 @@
 | **ServiceNow CSA** | Administração de Sistemas, Governança ITSM e Plataforma | Jul / 2026 | Concluído |
 
 <p align="right">
-  <sub><a href="./docs/certificacoes.md">👉 <i>Ver histórico completo de cursos e certificados</i></a></sub>
+  <sub><a href="../docs/certificacoes.md">👉 <i>Ver histórico completo de cursos e certificados</i></a></sub>
 </p>
 
 ---
