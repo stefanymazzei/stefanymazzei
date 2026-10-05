@@ -162,9 +162,14 @@
       </a><br />
       <sub><font color="#8b949e"><b>Total IP</b></font></sub>
     </td>
+    <td>
+      <a href="./docs/mds/action.md" target="_blank">
+        <img src="./docs/logomarcas/action.png" width="58" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 7px; object-fit: contain;" />
+      </a><br />
+      <sub><font color="#8b949e"><b>Action</b></font></sub>
+    </td>
   </tr>
 </table>
-
 ### 📊 Microsoft
 
 *(Clique no ícone para abrir a ficha técnica de cada ferramenta)*
