@@ -42,8 +42,8 @@ Selecione a instituição de ensino e o ano correspondente para visualizar os ce
     </td>
     <td>
       <br />
-      <a href="./anos/uninove-2025.md">📂 <b>2025</b></a><br /><br />
-      <a href="./anos/uninove-2024.md">📂 <b>2024</b></a>
+      <a href="../mds/2025-uninove.md">📂 <b>2025</b></a><br /><br />
+      <a href="../mds/2024-uninove.md">📂 <b>2024</b></a>
     </td>
   </tr>
 </table>
