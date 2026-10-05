@@ -1,4 +1,4 @@
-# <img src="../logomarcas/action.png" width="65" align="center" /> Action • Gestão Operacional & Atendimento
+# <img src="../logomarcas/action.png" width="75" align="center" /> Action • Gestão Operacional & Atendimento
 
 ### O que é a plataforma?
 O **Action** é uma plataforma corporativa especializada no suporte a operações dinâmicas, integrando rotinas de atendimento, registo de pedidos, acompanhamento de fluxos em tempo real e apoio ao controlo financeiro e fiscal.
