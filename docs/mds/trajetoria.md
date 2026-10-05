@@ -14,7 +14,7 @@ Se você gosta de acompanhar histórias de evolução real, dinamismo e dedicaç
 
 ### 🏪 Capítulo 1: O ritmo do varejo
 **Casas Bahia** • *Jovem Aprendiz*  
-🗓️ *Maio de 2019 – Março de 2020 (11 meses)*
+🗓️ *Maio de 2019 - Março de 2020 (11 meses)*
 
 Minha estreia no mercado de trabalho aconteceu no varejo puro, onde a dinâmica nunca para e o aprendizado é diário:
 * Atendimento direto e suporte ao cliente, entendendo o valor da empatia e da escuta ativa.
@@ -39,18 +39,18 @@ Não deixei o tempo passar em branco. Agarrei uma oportunidade temporária onde 
 Na **Acosta Contact Center**, minha dedicação abriu caminhos para uma história de reconhecimento contínuo, somando **duas promoções consecutivas**:
 
 #### 1️⃣ Linha de Frente: Operadora de Atendimento
-🗓️ *Setembro de 2022 – Abril de 2023 (8 meses)*
+🗓️ *Setembro de 2022 - Abril de 2023 (8 meses)*
 * Atendimento resolutivo ao cliente, negociação de acordos financeiros e foco em qualidade.
 * Registro rigoroso de chamados em sistemas corporativos e acompanhamento de solicitações ponta a ponta.
 
 #### 2️⃣ O Olhar Analítico: Monitora de Qualidade
-🗓️ *Abril de 2023 – Setembro de 2023 (6 meses)*  
+🗓️ *Abril de 2023 - Setembro de 2023 (6 meses)*  
 *(1ª Promoção)*
 * Acompanhamento de indicadores de desempenho (KPIs) e monitoria técnica das operações.
 * Suporte operacional aos atendentes, garantindo alinhamento de procedimentos e identificando melhorias contínuas.
 
 #### 3️⃣ Conexão com Pessoas: Assistente Administrativo com foco em RH
-🗓️ *Setembro de 2023 – Novembro de 2024 (1 ano e 3 meses)*  
+🗓️ *Setembro de 2023 - Novembro de 2024 (1 ano e 3 meses)*  
 *(2ª Promoção)*
 * Triagem de currículos e apoio completo em processos de Recrutamento & Seleção.
 * Gestão de documentos admissionais, controle de registros e acolhimento dos colaboradores.
@@ -60,7 +60,7 @@ Na **Acosta Contact Center**, minha dedicação abriu caminhos para uma históri
 
 ### 🍕 Capítulo Paralelo: Agilidade, Caixa & Atendimento Dinâmico
 **Pizzaria San Diego** • *Atendente & Operadora de Caixa (Freelance)*  
-🗓️ *Desde Março de 2023 – Atualmente*
+🗓️ *Desde Março de 2023 - Atualmente*
 
 Em paralelo à minha jornada corporativa, atuo na linha de frente do atendimento ao cliente e controle de caixa na pizzaria:
 * **Frente de Caixa & Controle Financeiro:** Abertura e fechamento de caixa diário, baixas em comandas e emissão de cupons fiscais.
@@ -71,7 +71,7 @@ Em paralelo à minha jornada corporativa, atuo na linha de frente do atendimento
 
 ### ⚙️ Capítulo 4: Estrutura Fiscal e Faturamento
 **Winterhalter Brasil** • *Assistente de Faturamento Jr.*  
-🗓️ *Atualmente*
+🗓️ *Desde Novembro de 2024 - Atualmente*
 
 Hoje aplico toda essa bagagem analítica, relacional e processual em um setor vital para a saúde financeira do negócio:
 * **Conformidade & Faturamento:** Controle rigoroso de faturamento e documentações fiscais da empresa.
