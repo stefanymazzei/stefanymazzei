@@ -265,7 +265,7 @@
 ### 📜 Trajetória Profissional
 
 <p align="center">
-  <a href="./docs/trajetoria.md">
+  <a href="../mds/trajetoria.md">
     <img src="https://github.com/stefanymazzei/stefanymazzei/raw/main/Linha%20do%20Tempo.gif" width="685" style="border-radius: 8px;" alt="Linha do Tempo Animada - Stefany Mazzei" />
   </a>
   <br />
