@@ -11,7 +11,7 @@ Selecione a instituição de ensino e o ano correspondente para visualizar os ce
       <img src="../logomarcas/fundacao.jpg" alt="Fundação Bradesco" height="80" style="object-fit: contain; border-radius: 6px;" />
     </th>
     <th width="33%">
-      <img src="../logomarcas/senai.png" alt="SENAI" height="80" style="object-fit: contain; border-radius: 6px;" />
+      <img src="../logomarcas/senai.png" alt="SENAI" height="50" style="object-fit: contain; border-radius: 6px;" />
     </th>
     <th width="33%">
       <img src="../logomarcas/uninove.png" alt="UNINOVE" height="80" style="object-fit: contain; border-radius: 6px;" />
