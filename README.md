@@ -208,7 +208,7 @@
 ### ⚙️ Projetos
 
 <table>
-  <!-- LINHA 1: Imagens -->
+  <!-- LINHA 1: Imagens (LUNNA e GreenLink) -->
   <tr align="center">
     <td width="50%">
       <a href="https://stefanymazzei.github.io/L-U-N-N-A/" target="_blank">
@@ -217,7 +217,7 @@
     </td>
     <td width="50%">
       <a href="https://github.com/stefanymazzei/GreenLink" target="_blank">
-        <img src="./docs/capas/Capa_GreenLink.jpeg" alt="Capa GreenLink" style="width: 520px; height: 240px; border-radius: 8px; object-fit: cover;" />
+        <img src="./docs/capas/Capa_GreenLink.jpg" alt="Capa GreenLink" style="width: 520px; height: 240px; border-radius: 8px; object-fit: cover;" />
       </a>
     </td>
   </tr>
@@ -236,22 +236,50 @@
     </td>
   </tr>
 
-  <!-- LINHA 2: Imagem UX/UI -->
+  <!-- LINHA 2: Imagens (UX/UI e McDonald's) -->
   <tr align="center">
     <td width="50%">
       <a href="https://stefanymazzei.github.io/UX-UI/" target="_blank">
         <img src="./docs/capas/UX%20%26%20UI%20(capa).png" alt="Capa UX e UI" style="width: 520px; height: 240px; border-radius: 8px; object-fit: cover;" />
       </a>
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <a href="https://stefanymazzei.github.io/McDonalds/" target="_blank">
+        <img src="./docs/capas/Capa_McDonads.jpg" alt="Capa McDonald's" style="width: 520px; height: 240px; border-radius: 8px; object-fit: cover;" />
+      </a>
+    </td>
   </tr>
 
-  <!-- LINHA 2: Informações UX/UI -->
+  <!-- LINHA 2: Título + Descrição + Botão -->
   <tr align="center">
     <td valign="top">
       <b>UX & UI Design | Portfólio de Interfaces</b><br />
       <sub><font color="#8b949e">Projetos focados em experiência do usuário, design de interfaces e usabilidade.</font></sub><br />
       <sub><a href="https://stefanymazzei.github.io/UX-UI/" target="_blank"><b>🌐 Acessar Site</b></a></sub>
+    </td>
+    <td valign="top">
+      <b>McDonald's | Interface & Acessibilidade Web</b><br />
+      <sub><font color="#8b949e">Recriação interativa com foco em responsividade, usabilidade e navegação acessível.</font></sub><br />
+      <sub><a href="https://stefanymazzei.github.io/McDonalds/" target="_blank"><b>🌐 Acessar Site</b></a></sub>
+    </td>
+  </tr>
+
+  <!-- LINHA 3: Imagens (Zeck Petiscos) -->
+  <tr align="center">
+    <td width="50%">
+      <a href="https://stefanymazzei.github.io/zeck-petiscos/" target="_blank">
+        <img src="./docs/capas/Capa_Zeck.jpg" alt="Capa Zeck Petiscos" style="width: 520px; height: 240px; border-radius: 8px; object-fit: cover;" />
+      </a>
+    </td>
+    <td width="50%"></td>
+  </tr>
+
+  <!-- LINHA 3: Título + Descrição + Botão -->
+  <tr align="center">
+    <td valign="top">
+      <b>Zeck Petiscos | Petiscos Naturais para Pets</b><br />
+      <sub><font color="#8b949e">Interface moderna voltada ao comércio e apresentação de petiscos artesanais e saudáveis.</font></sub><br />
+      <sub><a href="https://stefanymazzei.github.io/zeck-petiscos/" target="_blank"><b>🌐 Acessar Site</b></a></sub>
     </td>
     <td valign="top"></td>
   </tr>
